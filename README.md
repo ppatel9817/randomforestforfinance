@@ -1,4 +1,4 @@
- #Credit Card Fraud Detection using Random Forest
+#Credit Card Fraud Detection using Random Forest
 
 Introduction
 This project demonstrates the use of a Random Forest classifier to detect fraudulent transactions in a credit card dataset. The dataset is sourced from Kaggle and contains transactions made by European cardholders in September 2013. Each transaction is labeled as fraudulent or legitimate.
